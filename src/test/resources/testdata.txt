@@ -1,0 +1,14 @@
+give me a min, Wait, 90
+Give me a minute, Wait, 90
+Give me a sec, Wait, 90
+Give me a second, Wait, 90
+Hold on, Wait, 90
+I’ll be right back, Wait, 90
+No problem, Affirmative, 90
+Sure thing, Affirmative, 90
+ThirdPartyIntent, ThirdPartyIntent, 90
+I'm interested in this item:, RewardsSummary, 90
+I want to order five reams of white hammermill paper, ThirdPartyIntent, 90
+yea Epson 400 printer ink, Order, 90
+i want to buy paper, Order, 90
+That's fine, Affirmative, 90
